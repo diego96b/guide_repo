@@ -1,7 +1,7 @@
 # guide_repo
 Guide to learning Git and GitHub o Guide for learning Git and GitHub.
 
-# Esto SI es una prueba
+# Esto es una prueba para trabajar las Rmas (branch)
 
 ## Subheader de la prueba
 
